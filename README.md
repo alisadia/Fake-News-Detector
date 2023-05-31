@@ -168,7 +168,6 @@ Feature extraction is a process of transforming raw data into features that can 
 
 
 ![Final Architecture Diagram-page0001](https://user-images.githubusercontent.com/129365210/234273584-e94dfb17-93cf-4673-9b3c-1ad7c272064d.jpg)
-Project Overview[1 (2).pdf](https://github.com/alisadia/Fake-News-Detector/files/11614871/1.2.pdf)
 
 
 
